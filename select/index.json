@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "HIROYUKI",
+  "base_artist": "Masato Hayashi",
+  "createdAt": "2026-02-16T09:03:29.277930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Goodnight Hiroyuki",
+      "artist": "Justin Courtney Pierre",
+      "has_synced": true,
+      "path": "select/01_Goodnight_Hiroyuki_Justin_Courtney_Pierre.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Incarnation (Hiroyuki ODA Remix)",
+      "artist": "HSP",
+      "has_synced": false,
+      "path": "select/02_Incarnation_(Hiroyuki_ODA_Remix)_HSP.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Light Song - Hiroyuki ODA remix",
+      "artist": "livetune feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/03_Light_Song_-_Hiroyuki_ODA_remix_livetune_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Light Song - Hiroyuki ODA remix",
+      "artist": "livetune/Hatsune Miku",
+      "has_synced": true,
+      "path": "select/04_Light_Song_-_Hiroyuki_ODA_remix_livetune_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Really Want to Stay At Your House (Epic Version) (Hiroyuki Sawano Style)",
+      "artist": "Kim, Samuel",
+      "has_synced": true,
+      "path": "select/05_I_Really_Want_to_Stay_At_Your_House_(Epic_Version)_(Hiroyuki_Sawano_Style)_Kim,_Samuel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Really Want to Stay At Your House (Epic Version) (Hiroyuki Sawano Style)",
+      "artist": "Samuel Kim",
+      "has_synced": true,
+      "path": "select/06_I_Really_Want_to_Stay_At_Your_House_(Epic_Version)_(Hiroyuki_Sawano_Style)_Samuel_Kim.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hiroyuki Sawano – 『IVORY TOWER』 ft. (Vocal: SennaRin)",
+      "artist": "[UN///CHilD]",
+      "has_synced": true,
+      "path": "select/07_Hiroyuki_Sawano_–_『IVORY_TOWER』_ft._(Vocal__SennaRin)_[UN_CHilD].lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Light Song (Hiroyuki ODA remix)",
+      "artist": "livetune feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/08_Light_Song_(Hiroyuki_ODA_remix)_livetune_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Light Song (Hiroyuki ODA remix)",
+      "artist": "livetune",
+      "has_synced": false,
+      "path": "select/09_Light_Song_(Hiroyuki_ODA_remix)_livetune.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Light Song (Hiroyuki ODA remix)",
+      "artist": "livetune feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/10_Light_Song_(Hiroyuki_ODA_remix)_livetune_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Inferno (feat. Benjamin, mpi) - Promare OST - Hiroyuki Sawano",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/11_Inferno_(feat._Benjamin,_mpi)_-_Promare_OST_-_Hiroyuki_Sawano_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hiroyuki Sawano - You See Big Girl [Sub. Español/Alemán]",
+      "artist": "annxymin",
+      "has_synced": true,
+      "path": "select/12_Hiroyuki_Sawano_-_You_See_Big_Girl_[Sub._Español_Alemán]_annxymin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Light Song (Hiroyuki ODA remix)",
+      "artist": "HSP feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/13_Light_Song_(Hiroyuki_ODA_remix)_HSP_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Light Song (Hiroyuki ODA remix)",
+      "artist": "HSP",
+      "has_synced": false,
+      "path": "select/14_Light_Song_(Hiroyuki_ODA_remix)_HSP.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Avid (Vo. mizuki) -Sawano Hiroyuki LIVE [nZk]008 @ NHK Hall ver.-",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/15_Avid_(Vo._mizuki)_-Sawano_Hiroyuki_LIVE_[nZk]008_@_NHK_Hall_ver.-_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "O.P.P.A.I (Hayashi Hiroyuki remix)",
+      "artist": "kankakupiero",
+      "has_synced": true,
+      "path": "select/16_O.P.P.A.I_(Hayashi_Hiroyuki_remix)_kankakupiero.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "DOA (Vo. Aimee Blackschleger) -Sawano Hiroyuki LIVE [nZk]008 @ NHK Hall ver.-",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/17_DOA_(Vo._Aimee_Blackschleger)_-Sawano_Hiroyuki_LIVE_[nZk]008_@_NHK_Hall_ver.-_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hiroyuki Sawano - Voices of the Chord",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/18_Hiroyuki_Sawano_-_Voices_of_the_Chord_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dark Aria (Hiroyuki Sawano)",
+      "artist": "Crunchyroll",
+      "has_synced": true,
+      "path": "select/19_Dark_Aria_(Hiroyuki_Sawano)_Crunchyroll.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HIROYUKI",
+      "artist": "Masato Hayashi",
+      "has_synced": false,
+      "path": "select/pl_01_HIROYUKI_Masato_Hayashi.txt"
+    }
+  ]
+}
